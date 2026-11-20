@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 # Check whether the file given as the first argument exists.
 
 if [ $# -ne 1 ]; then
