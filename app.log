@@ -1,6 +1,0 @@
-2026-11-13 08:01 INFO  user=dana login
-2026-11-13 08:03 ERROR user=avi  disk full
-2026-11-13 08:05 INFO  user=avi  login
-2026-11-13 08:07 ERROR user=dana timeout
-2026-11-13 08:09 ERROR user=avi  disk full
-2026-11-13 08:10 INFO  user=noa  login
